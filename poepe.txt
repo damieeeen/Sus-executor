@@ -1,1 +1,3 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nicheehub/cr/main/hubv2", true))()       Key: L3wRGk18BF
